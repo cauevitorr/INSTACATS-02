@@ -1,0 +1,29 @@
+header{
+    margin-bottom: 100px;
+    background-color: coral; 
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    margin-top: 30px;
+    margin-left: 1100px;
+}
+
+li {
+    font-family: "Nunito";
+    font-weight: 800;
+    font-size: larger;
+    list-style: none;
+    display: inline;
+    padding: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.icon{
+    margin-left: 200px;
+}

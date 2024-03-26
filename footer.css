@@ -1,0 +1,12 @@
+footer {
+    margin-top: 100px;
+    margin-bottom: 0;
+    background-color: coral;
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    color: black;
+    font-family: "Nunito";
+    font-weight: 800;
+    font-size: larger;
+} 
